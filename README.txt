@@ -1,0 +1,1 @@
+This project is used to apply Lucene to build an IR System.
